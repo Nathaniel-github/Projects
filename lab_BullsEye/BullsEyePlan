@@ -1,0 +1,8 @@
+- Import the java.awt and javax.swing packages
+- You need to calculate the center of the screen
+- No need for new fields or variables
+- fillOval() is the draw method we will use
+- The comments about what the program is doing need changing
+- NOPE!
+
+The code worked on the first try using everything I said here.

@@ -1,0 +1,8 @@
+Make a loop for printing circles using a variable like malnum that can be scaled between the circles and if loop to see wether to make it white or red
+
+The biggest circle would have to remain the same bc the screen can't get bigger for the number of rings
+
+Make the scaling factor larger the more rings are inputed into the code bc the distance between the rings needs to be smaller
+
+Check wether the number of times the code has run is odd or even and change between red and white depending on that
+

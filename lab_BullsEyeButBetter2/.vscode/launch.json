@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DrawingPanel",
+            "request": "launch",
+            "mainClass": "DrawingPanel",
+            "projectName": "lab_BullsEyeButBetter"
+        }
+    ]
+}

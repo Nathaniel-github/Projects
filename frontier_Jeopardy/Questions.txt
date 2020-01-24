@@ -1,0 +1,31 @@
+What Song Was The First Song To Be Certified Double Platinum?; Shape Of You; Closer; Rockstar; One Dance; 100;
+Which Artist Recorded The Song "Demons"?; Imagine Dragons; Offset; Macklemore; Green Day; 200;
+Which Famous EDM Artist Died In 2018?; Avicii; Kygo; Maurice West; Diplo; 300;
+Which Artist Had A Debut Hit Named "White Iverson"?; Post Malone; Drake; Joe Biden; Juice WRLD; 400;
+Who Did Martin Garrix Work With To Create The Hit "High On Life"?; Bonn; David Guetta; Dean Lewis; R3HAB; 500;
+Who Takes Over The President's Job In The Case The President Is No Longer Fit To Serve?; Vice President; Speaker Of House; Chief Justice; Secretary Of State; 100;
+Which Amendment Prevents Warrantless Searches?; 4th; 7th; 1st; 9th; 200;
+How Many Total Functioning Amendments Are There?; 25; 27; 19; 32; 300;
+How Many Human Rights Are There?; 30; 12; 42; 6; 400;
+Which Amendment Protects States Rights?; 10th; 2nd; 8th; 3rd; 500;
+What Is The Name Of The Founder Of Microsoft?; Bill Gates; Jeff Bezos; Barack Obama; Warren Buffet; 100;
+What Is The Name Of The Longest River As Of 2019?; Nile River; Yangtze River; Yellow River; Congo River; 200; 
+What Word Is The Name Of A Company, A Forest, And A River?; Amazon; Yellow; Mississippi; Ganges; 300;
+What Is The Name Of The 3rd Richest Person In The 2019 Forbes 400 Rankings?; Warren Buffet; Larry Ellison; Larry Page; Mark Zuckerberg; 400;
+What Is The Name Of The Creator Of Java; James Gosling; Steve Jobs; Guido van Rossum; Sal Khan; 500;
+As Of 2010, How Many Continents Are On Earth?; 7; 4; 6; 21; 100;
+As Of January 1, 2019, How Many People Existed On Earth (In Billions)?; 7.543; 5.732; 7.835; 6.947; 200;
+How Many UC Schools Are There?; 9; 4; 12; 11; 300;
+As Of November 23, 2019, How Many Countries Are In The United Nations?; 193; 205; 195; 200; 400;
+As Of January 1, 2019, How Many Inhabited Territories Belonged To The United States?; 5; 16; 3; 4; 500;
+What Is The Most Common Acronym For Order Of Operations?; PEMDAS; FRASS; TREESH; OBIDEN; 100; 
+What Is The Product Of 37 * 41?; 1517; 1207; 1217; 1507; 200;
+Which Mathematician is credited for "a² + b² = c²"?; Pythagoras; Euclid; Hypatia; Euler; 300;
+The Irrational Constant 'e' is the closest to which decimal number; 2.71828; 2.71829; 3.1415; 1.4142; 400; 
+What Is The Equation For The Volume Of A Cube?; r³; b * l * w; 4/3 * π * r³; π * r² * h / 3; 500
+Where Was Apple Founded?; Cupertino CA; San Francisco CA; Miami FL; Chicago Il; 100;
+Where Was Costco Founded?; Seattle WA; Houston TX; San Diego CA; Bosta MA; 200;
+Where Was Google Founded?; Menlo Park CA; Sunnyvale CA; Los Angeles CA; Beijing China; 300;
+Where Was Adobe Founded?; Mountain View CA; El Paso TX; Orlando FL; Cupertino CA; 400;
+Where Was United Airlines Founded?; Boise ID; Washington DC; Las Vegas NV; New Delhi India; 500;
+
